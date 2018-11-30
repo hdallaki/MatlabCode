@@ -1,2 +1,2 @@
 # MatlabCode
-This is 8-queen
+This is 8-queens with GA
